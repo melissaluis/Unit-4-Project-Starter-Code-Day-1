@@ -4,7 +4,7 @@ img {
 
 .circle {
     border-radius: 5px;
-    border: 10px solid red;
+    border: 10px dashed pink;
     display: flex;
 }
 
