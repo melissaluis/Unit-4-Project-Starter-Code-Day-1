@@ -1,0 +1,30 @@
+img {
+    height: 200px;
+}
+
+.circle {
+    border-radius: 5px;
+    border: 10px solid red;
+    display: flex;
+}
+
+.horizontal {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 40px;
+}
+
+.font {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.secondfont {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-style: italic;
+}
+
+a:hover {
+    background-color:#549ef7;
+    border: 5px solid red;
+}
